@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "961443817603",
+    "firebase_url": "https://bienestar-bovino-default-rtdb.firebaseio.com",
+    "project_id": "bienestar-bovino",
+    "storage_bucket": "bienestar-bovino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961443817603:android:a47f218f87577c005bd3b6",
+        "android_client_info": {
+          "package_name": "com.example.bbovino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaQyXgnRzLRHeCSEZr1PniRi6I4Bdb4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961443817603:android:f3af331d2df443fb5bd3b6",
+        "android_client_info": {
+          "package_name": "com.example.bienestarbovino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaQyXgnRzLRHeCSEZr1PniRi6I4Bdb4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961443817603:android:805774eec76c6bdc5bd3b6",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaQyXgnRzLRHeCSEZr1PniRi6I4Bdb4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961443817603-0ohlafvp2o1vbj5htlbsda5sou8img4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
