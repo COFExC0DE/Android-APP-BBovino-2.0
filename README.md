@@ -1,4 +1,4 @@
-# CowInfo App
+# BBovino (Bienestar Bovino) App
 
 ## Description
 
